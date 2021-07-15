@@ -52,7 +52,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello Friends</h1>
-        <p>kavya's is getting crazy on ansible :) </p>
+        <p>kavya's is getting crazy from jenkis-- ansible --tomcat:) </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
